@@ -43,6 +43,7 @@ export default function App() {
           color={agree2 ? "#9C9D9E" : "#3A3B3D"}
            />
            <Text style={styles.checklistPointText}>Спагетти Карбонара</Text>
+           
          </View>
          <View style={styles.checklistPoint}>
          <CheckBox 
